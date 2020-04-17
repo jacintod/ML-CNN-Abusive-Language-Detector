@@ -1,3 +1,4 @@
 
 .ipynb_checkpoints/Abusive-Language-Detector-checkpoint.ipynb
 .ipynb_checkpoints/ML-CNN-Abusive-Language-Detector-checkpoint.ipynb
+data/GoogleNews-vectors-negative300.bin.gz
